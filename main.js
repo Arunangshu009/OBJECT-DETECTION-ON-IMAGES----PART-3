@@ -6,10 +6,6 @@ function preload(){
     document.getElementById("India.png");
 }
 
-function previous(){
-window.location("1st_index.html");
-}
-
 function setup(){
     canvas= createCanvas(640, 420);
     canvas.center();
